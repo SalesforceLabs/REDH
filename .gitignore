@@ -1,0 +1,8 @@
+*.key
+.idea/
+downloads/
+tmp/
+*.*swp
+*.zip
+.DS_Store
+__pycache__/
